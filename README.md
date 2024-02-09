@@ -1,5 +1,7 @@
 ![Header](./bg.jpg)
+<hr>
 <h3 align="center">A dedicated Software Engineer & Designer hailing from Sri Lanka</h3>
+<hr>
 <p align="right"><img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Keerthika04&label=Profile%20views&color=0e75b6&style=flat" alt="Keerthika04" /> </p>
 
